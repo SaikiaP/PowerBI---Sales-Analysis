@@ -8,3 +8,8 @@ Steps:
 4. Based on the ask(our case was to analyze and produce visualization that helps gather valuable insights from the data)
 
 
+Database name :Sales
+Tables: customers, date, market, product, transactions
+
+
+
