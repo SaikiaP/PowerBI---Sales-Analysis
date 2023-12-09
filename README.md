@@ -9,7 +9,11 @@ Steps:
 
 
 Database name :Sales
-Tables: customers, date, market, product, transactions
-
+Tables:    
+customers(customer_code, customer_name, customer_type)
+date (date, cy_date,year, month name, date-yy-mmm)
+markets (market code,market name, zone)
+product (product code, product type)
+transaction(product code, customer_code, market code,orderdate, sales quantity,sales amount, currency)
 
 
