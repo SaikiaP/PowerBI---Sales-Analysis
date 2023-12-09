@@ -1,6 +1,6 @@
 # PowerBI---Sales-Insights Analysis
 
-This is a personal project where I wroked on  sales data in a mysql database under the guidance of "Codebasics"
+This is a personal project where I worked on  sales data in a mysql database under the guidance of "Codebasics"
 Steps:
 1.Load the sql dump to mysql database
 2.Run basic analysis on the data using SQL
